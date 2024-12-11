@@ -1,0 +1,16 @@
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.Form1.resources
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.csproj.GenerateResource.cache
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.AssemblyInfoInputs.cache
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.AssemblyInfo.cs
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.csproj.CoreCompileInputs.cache
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\bin\Debug\net8.0-windows\giocodellasedia.exe
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\bin\Debug\net8.0-windows\giocodellasedia.deps.json
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\bin\Debug\net8.0-windows\giocodellasedia.runtimeconfig.json
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\bin\Debug\net8.0-windows\giocodellasedia.dll
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\bin\Debug\net8.0-windows\giocodellasedia.pdb
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.dll
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\refint\giocodellasedia.dll
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.pdb
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\giocodellasedia.genruntimeconfig.cache
+C:\Users\pawan\source\repos\giocodellasedia\giocodellasedia\obj\Debug\net8.0-windows\ref\giocodellasedia.dll
